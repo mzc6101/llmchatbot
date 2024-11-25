@@ -24,19 +24,17 @@ Installation
 
 	1.	Clone the Repository:
 
-git clone https://github.com/yourusername/sonos-assistant.git
-cd sonos-assistant
-
 
 	2.	Set Up a Virtual Environment:
+ 		python3 -m venv venv
+		source venv/bin/activate  # On Windows, use venv\Scripts\activate
 
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
+
 
 
 	3.	Install Dependencies:
 
-pip install -r requirements.txt
+		pip install -r requirements.txt
 
 
 	4.	Configure the Application:
@@ -58,7 +56,7 @@ Usage
 
 	1.	Start the Application:
 
-python app.py
+		python app.py
 
 By default, the application runs on http://0.0.0.0:5000.
 
@@ -116,15 +114,3 @@ The application utilizes Python’s built-in logging module to record debug and 
 Thread Safety
 
 To ensure thread-safe operations, especially when accessing or modifying shared resources like chat history and FAQs, the application employs threading locks.
-
-Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-
-Special thanks to the developers of Flask and the Ollama API for providing the tools that made this project possible.
