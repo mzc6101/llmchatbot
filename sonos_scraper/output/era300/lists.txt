@@ -1,0 +1,488 @@
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Stream content over WiFi, Bluetooth®, or using USB-C line-in (requires adapter).
+Supports spatial audio with Dolby Atmos Music.
+Easy control using the Sonos app, your voice, or the intuitive touch controls.
+Two separate microphone controls for convenience and privacy.
+Pair two Era 300 speakers with Sonos Arc or Beam (Gen 2) for multichannel surround sound.
+Compatible with your other Sonos S2 speakers for multi-room listening.
+See 
+Setup
+ when you’re ready to add a Sonos Era 300 to your system.
+Volume up (slide right, or tap 
++
+ )
+Volume down (slide left, or tap 
+-
+ )
+Press once to play or pause audio.
+Press and hold to group with audio that's playing in another room (or to ungroup).
+Press 
+>
+ to skip to the next song.
+Press 
+<
+ to go to the previous song.
+When the indicator light is on, voice control is available (the microphone switch on the back must also be on).
+When the indicator light is off, voice control is off.
+Press and hold to pair a new device.
+Press once to reconnect.
+When the switch is off (down), the microphones are disabled so microphone-enabled features like Trueplay quick tuning and voice services are unavailable. 
+When the switch is on (up), microphone-enabled features like Trueplay are available. (Voice services are available if the voice services indicator light on top of the product is also on.)
+Ethernet
+: Use the Sonos Combo Adapter and an Ethernet cable to connect Era 300 directly to your router if you want to hardwire your speaker (helpful if your WiFi is unstable).
+Line-in
+: Use either the Sonos Line-In Adapter or Combo Adapter to connect your turntable, CD player, projector, or other device.
+Era 300 should be placed indoors and have approximately 2' (.61m) of overhead clearance for optimal sound quality. Placement in an enclosed space like a bookshelf is not recommended as this could impact dispersion and playback clarity.
+If you are mounting Era 300 within 2' (.61m) of a ceiling, place it upside down for the best sound.
+When Era 300 is placed next to a wall or on a shelf, leave at least 1" (2.5cm) clearance in back and 8” (20.32cm) on each side of the speaker.
+Traditional stereo setups often have an ideal place to sit in a room for the best listening experience, but with Era 300 the sound is sent in all directions so you'll experience rich detail no matter where you’re seated.
+Both speakers' height should be around ear level and behind your seated position.
+Leave at least 8" (20.32cm) clearance around the sides of each speaker.
+When both are on, voice control and all microphone-enabled features are available.
+When both are off, voice control and all microphone-enabled features are unavailable.
+When the universal microphone switch is on and the voice services light is off, Trueplay and other microphone-enabled features are available but voice control is off. 
+Sonos Voice Control
+: control your whole Sonos system with hands-free ease and unmatched privacy. Sonos Voice Control comes ready to use—it only takes a few seconds to add when you set up your speakers. 
+More information
+Amazon Alexa
+: you’ll need the Sonos app and the Alexa app with the Sonos skill enabled. You’ll make some changes in both apps during setup. 
+Learn more
+Siri
+: you’ll need the Apple Home app. Add your AirPlay2-compatible Sonos speakers to the Apple Home app and then use an iPhone, iPad, or Apple TV to ask Siri to play music (currently limited to Apple Music). 
+Learn more
+Source name
+: Choose a name for the line-in device.
+Source level
+: Adjust the line-in source level if you find the default volume setting is too quiet or distorted.
+Audio Delay
+: Add a delay between the line-in source and Sonos to reduce the chance of audio issues occurring when you're playing line-in audio on grouped speakers.
+Autoplay
+: Choose a room if you want line-in audio to start playing automatically when Sonos detects a signal on the line-in port. 
+Fixed height, optimal for home theater surrounds.
+Easy assembly.
+Channel in the pole hides the speaker’s power cable for simple cable management.
+1 stand base
+1 stand pole
+1 speaker platform
+1 stand pole cap
+Mounting kit with 4 screws (3 white and 1 black, or 4 black), 1 washer
+Phillips-head screwdriver
+The easy-to-install mount for Sonos Era 300.
+Supports the weight of your speaker and secures it in place.
+Allows access to ports, buttons, and touch controls, and cleanly routes your speaker’s cable.
+Flexibility to position your speaker for best sound.
+1 wall mount
+1 wall bracket
+Mounting kit with 4 screws
+Pencil
+Level
+Stud finder
+Phillips-head screwdriver
+Power drill
+Mounting the speaker upright is suitable for most locations.
+The speaker can swivel left or right, or tilt up and down.
+Mounting the speaker upside down is recommended if the speaker is installed within 2 feet of a ceiling to optimize downfiring sound.
+The speaker can swivel left and right, or tilt up and down.
+When wall mounted upside down, the power cable can be routed from above or below.
+Far field microphone array
+All microphones, including voice control, can be turned off using the microphone switch on the back of the speaker.
+Connect an audio source using an auxiliary cable and the Sonos Line-In Adapter. 
+Connect your router with an Ethernet cable and the Sonos Combo Adapter. (All accessories sold separately.) 
+Integrated voice control
+When the voice control LED is off, voice assistants are not listening, but other microphone-dependent features (e.g. Trueplay) are still active.
+Colors: white, black
+Finish: matte
+Sonos Era 300, 6 ft (2 m) power cable, quickstart guide
+Our Company
+News
+Blog
+Careers
+Responsibility
+Innovation
+Frontline Workers
+Students
+Upgrade
+Corporate Sales
+Sonos Professional
+Works with Sonos
+Investors
+Developer Portal
+Manage Your Account
+Order Status
+Sonos App
+Sonos Radio
+Shipping and Delivery
+Returns
+Frontline Workers
+Students
+Upgrade
+Corporate Sales
+Sonos Professional
+Works with Sonos
+Investors
+Developer Portal
+Manage Your Account
+Order Status
+Sonos App
+Sonos Radio
+Shipping and Delivery
+Returns
+Legal
+Privacy Statement
+Accessibility
+Conformity
+Site map
+Security

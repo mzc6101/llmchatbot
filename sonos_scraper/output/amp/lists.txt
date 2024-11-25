@@ -1,0 +1,419 @@
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Amp features a built-in state-of-the-art digital amplifier that can power large or small speakers so you can enjoy superior audio in any room.
+Works with either Sonos S2 or Sonos S1 (for Android and iOS).
+Connect your favorite bookshelf, floor-standing, in-wall, or in-ceiling speakers to Amp to stream all the music you love.
+Connect a turntable, stereo, or portable audio device and play the sound on any Sonos speaker.
+Use Amp and a pair of 3rd-party speakers to create two front audio channels.
+Use Amp with third-party speakers to add surround sound if you already have a Sonos home theater speaker (Arc, Arc SL, Beam, or another Amp) connected to your TV.
+Volume up (right)
+Volume down (left)
+TV
+—When the TV is on, touch to toggle the sound on and off.
+Music
+—When the TV is off, touch to pause or restart music.
+Swipe right across the touch controls to skip to the next song. 
+Swipe left to go to the previous song.
+Amp mounts perfectly in any electronics rack.
+Place two Amps side by side in a 2U rack.
+Place four Amps in a 3U rack.
+Place horizontally on a stable and level surface at least 3 in / 50 mm from the TV.
+Don’t block the TV’s IR sensor.
+If put on a shelf, place at the front and keep 3" (minimum) clearance on all sides.
+Don’t block the front of Amp so you can reach the touch controls.
+Your speakers’ power rating should be at least 125W for 8 ohm speakers, and at least 200W for 4 ohm speakers. Do not connect speakers rated at less than 4 ohm.
+Amp can drive speakers with nominal impedance above 4 ohms. Two pairs of 8 ohm speakers wired in parallel are also supported. Don’t wire your speakers in series because it will result in poor sound quality.
+If your TV has an HDMI ARC port, connect the HDMI cable to your TV’s HDMI ARC port.
+If your TV doesn’t have an HDMI ARC port, you'll need the optical adapter. Attach it to the HDMI cable and connect the optical adapter end to your TV’s optical digital OUT port.
+Our Company
+News
+Blog
+Careers
+Responsibility
+Innovation
+Frontline Workers
+Students
+Upgrade
+Corporate Sales
+Sonos Professional
+Works with Sonos
+Investors
+Developer Portal
+Manage Your Account
+Order Status
+Sonos App
+Sonos Radio
+Shipping and Delivery
+Returns
+Frontline Workers
+Students
+Upgrade
+Corporate Sales
+Sonos Professional
+Works with Sonos
+Investors
+Developer Portal
+Manage Your Account
+Order Status
+Sonos App
+Sonos Radio
+Shipping and Delivery
+Returns
+Legal
+Privacy Statement
+Accessibility
+Conformity
+Site map
+Security

@@ -1,0 +1,604 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+This original Sonos app can be downloaded on your mobile device to control your older products. Products released after May 2020 aren’t compatible with the S1 Controller app. If you have both older and newer products, you can unplug your older products, or upgrade them; or you can create two separate systems—one running S2 with products that are S2 compatible and another running S1 with products that are not. 
+Learn more
+Things you can do:
+Room name
+See what’s playing or group rooms to play the same music in more than one room.
+Playback controls
+Start, pause, and stop audio; skip to the next song or back to the previous one.
+Note: 
+You can skip through content by tapping 
+ or 
+ (available only with certain services).
+Volume control
+Adjust the volume of a room, or mute it. When two or more rooms are grouped, you can adjust the volume of all rooms in the group or the volume for each room using its slider.
+Queue
+View and manage the songs you’ve selected to play. You can add, remove, and reorganize the songs. You can also save a queue as a playlist for easy playback the next time. See 
+Sonos playlists
+.
+Now Playing
+Shows what's currently playing in this room or group of rooms.
+More information
+See additional options for the content that’s currently playing, such as setting crossfade and sleep timer, adding a song to your favorites or to a playlist.
+Room selector
+Choose where you want the music to play.
+My Sonos
+A space to save and play your favorite music and collections so you always know where to find the music you love.
+Browse
+Browse through music services, your music library, and music on your mobile device. When you find music you like, start playing it in any room.
+Rooms
+Search
+Search your content sources. 
+Settings
+Add music and voice services, set alarms, and go to system settings.
+When you play a song, it’s automatically added to your queue; you can also add songs to the queue while browsing. 
+It's easy to save a queue as a playlist so you can easily listen to it again later. See 
+Sonos playlists
+.
+Shuffle
+From 
+Now Playing
+, tap 
+  > 
+ to change the song order.
+Repeat
+From 
+Now Playing
+, tap 
+  >  
+ to repeat all songs; tap again to repeat the song that’s playing.
+Crossfade
+From 
+Now Playing
+, tap the song title, then 
+Crossfade 
+to create a smooth transition between songs.
+Save
+From 
+Now Playing
+, tap 
+  >  
+Save 
+to create a Sonos playlist so you can listen to it again later. See 
+Sonos playlists
+. 
+Clear
+From 
+Now Playing
+, tap 
+  >  
+Clear 
+to remove all songs from the queue. If anything is playing, it will stop.
+Delete Songs
+From 
+Now Playing
+, tap 
+  >  
+Edit
+, then you can delete songs. 
+Reorder Songs
+From 
+Now Playing
+, tap 
+  >  
+Edit
+, then touch and hold 
+ to drag the song to a new location.
+Play Now
+While browsing content, tap 
+ (iOS) or 
+(Android), then 
+Play Now 
+to add a song or album to the queue and start playing it immediately. Anything that's playing stops.
+Play Next
+While browsing content, tap 
+ (iOS) or 
+(Android), then 
+Play Next
+ to add a song or album to the current location in the queue and start playing it when the current content finishes.
+Add to End of Queue
+While browsing content, tap 
+ (iOS) or 
+(Android), then 
+Add to End of Queue
+ to add a song or album to the end of the current queue.
+Replace Queue
+While browsing content, tap 
+ (iOS) or 
+(Android), then 
+Replace Queue
+ to delete the current queue and replace it with this selection. 
+Any queue can be saved as a Sonos Playlist in 
+My Sonos
+. Playlists give you quick access to your favorite music so you can easily listen to it again.
+Content stored on your mobile device can’t be saved to a Sonos playlist because it travels with you and isn’t always available to Sonos.
+Build a queue in the Sonos app with the songs you want to play, then from 
+Now Playing
+, tap 
+   > 
+Save 
+and give your playlist a name.      
+You can change the order of songs or delete them. 
+Stream from your favorite services
+. Sonos works with all the services you know and love—Apple Music, Spotify, Amazon Music, Audible, Deezer, Pandora, TuneIn, iHeartRadio, Google Play Music, YouTube Music, and many more.
+To add a music service or change the services you have, go to  
+ > 
+Services & Voice
+.
+Upgrade to Sonos Radio HD
+. Enjoy ad-free listening, lossless audio, and access to exclusive stations and artist content.
+To subscribe to Sonos Radio HD or change the subscriptions you have, go to 
+ > 
+Account 
+> 
+Subscriptions
+.
+Use your voice to control your Sonos system with any voice-enabled Sonos product—play and control content, turn the volume up and down, and more. 
+Go to 
+ > Services & Voice to get started.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+Note
+: Voice control isn’t supported in every country yet—this feature will be available as soon as Sonos and a voice service launch together in your region.
+Go to 
+  > 
+App Preferences
+ to adjust preferences and behaviors, like notifications and lock screen controls.
+Appearance 
+Change appearance to light or dark mode, or set it to default to the device setting. 
+Learn more
+Show Notifications 
+(Android)
+Allow the app to display notifications. This setting must be on to use app shortcuts or lock screen controls.
+Show App Shortcuts 
+(Android)
+Create shortcuts on your Home screen to quickly get to your favorite content.
+Home Screen Volume Control 
+(Android)
+Use the hardware volume buttons on your Android device to raise or lower the Sonos volume. 
+Learn more
+Lockscreen Controls
+/
+Show Lock Screen Controls
+Control your Sonos system from the lock screen on an 
+iOS
+ or 
+Android
+ device. 
+Enable Search History
+Allow your recent searches to be saved. Data is stored locally on this device and is not uploaded to our servers.
+Confirm Location
+When Sonos has been inactive for a while, confirm where you want the music to play.
+Room Detection 
+Detect nearby speakers using the microphone on this device.
+Control from Other Devices 
+(Android)
+Control your Sonos system in alternative ways.
+Find My Apps
+Allow music and content apps installed on this device to appear when you’re browsing so you can add them to the Sonos app.
+Allow Pop-up Messages
+Allow pop-up messages so new products can be found automatically.
+Installer Setup
+Settings for installers who regularly set up multiple product at the same time.
+Version
+The software version of your Sonos app.
+Build
+The specific build number of the version of your Sonos app.
+Manage Android Settings / Manage iOS Settings
+Opens the Sonos app settings in your Android or iOS device settings.
+Reset App
+Disconnect the app from your Sonos system so you can set up a new Sonos system or connect to an existing system on the same network. 
+Go to 
+ > 
+System 
+to view or change the settings for your Sonos system and connected devices
+About My System
+Shows all the Sonos products in your system along with detailed information including name, serial number, IP address, software version, and more.
+AirPlay
+Shows the AirPlay compatible products in your system and allows you to keep non-AirPlay compatible products grouped with AirPlay-compatible products for multi-room playback. 
+Learn more
+Alarms
+Set an alarm to automatically play music at a specified time in a room or room group. See 
+Alarms and sleep timer
+.
+Audio Compression
+Allows you to override the pre-set and choose if Sonos compresses the audio when streaming Line-In. Sonos presets the best Audio Compression level for your system; this setting overrides the pre-set. 
+Learn more
+Date & Time
+Set the local date and time for your system or set it from the Internet. You can also specify whether you want the time adjusted for daylight savings.
+Groups
+Create a group of products so you can quickly select it by name.
+Media Servers
+Allows your shared Windows Media library to appear in the Sonos app so you can browse content and stream it to your Sonos system directly. 
+Learn more
+Music Library
+Manage the music library you have stored on a computer or network attached storage drive. Use a computer to set up your music library.  
+Learn more
+Network
+Switch your Sonos system to a 
+different wireless network
+ or, if you have a product wired to your router, you can change your system’s 
+wireless channel
+ to try to reduce interference. 
+Parental Controls
+Restrict access to explicit content. 
+Learn more
+System updates
+Sonos regularly adds new features. Set your Sonos speakers to update automatically in the background so you always have the latest features without interrupting your listening. 
+Learn more
+Transfer System Ownership
+Transfer your Sonos system to a new account. You may need to do this if you create a new Sonos account or if you’re using pre-owned products that are still registered to the original account. 
+Learn more
+Forget Current Sonos System
+Remove a Sonos system from your app so you can connect to a different system. This option isn’t available if the app is only connected to one Sonos system.
+Alarms
+Wake to music you love by setting an alarm with a favorite song, station or playlist. Go to 
+ > 
+. 
+Learn more
+Snooze Alerts
+Want to stay in bed a little longer? Turn on Snooze Alerts when you set an alarm.
+Sleep Timer
+Love to fall asleep to music? From 
+Now Playing
+, tap 
+ and set a sleep timer. 
+Your account allows you to register your products, receive updates, and provides a seamless integration with content and voice services. 
+Learn more
+Change email
+Change the email address associated with your Sonos account.
+Resetting password
+Change the password associated with your Sonos account.

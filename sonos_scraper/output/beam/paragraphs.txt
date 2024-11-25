@@ -1,0 +1,605 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Volume control
+Touch for small adjustments or hold to quickly adjust the volume.
+Note
+: You can also use the Sonos app, your voice, or your TV remote.
+Play/Pause
+Next/Previous
+(music only)
+Note
+: You can’t skip forward or go back when listening to a radio station.
+Microphone
+Tap to turn the microphone on or off:
+Note
+: If you’ve installed a voice service and the microphone is off, you can still use voice commands. Just press and hold 
+—no need to start with a wake word. When you release the microphone button, voice control turns off again.
+Status light
+Displays the product's connection to WiFi, indicates when the volume is muted, and signals errors. 
+Learn more
+Note
+: If you don’t want to allow playback or volume adjustments using the speaker touch controls, you can disable them in the room’s settings.
+AC (mains) power input
+Use only the supplied power cord (using a third-party power cord will void your warranty).
+Note
+: Insert the power cord firmly until it is flush with the soundbar.
+Join button
+Press to connect during setup.
+Ethernet port
+Use an Ethernet cable if you want to connect to a router, computer, or network-attached storage (NAS) device (optional).
+HDMI port
+Use to connect the soundbar to your TV.
+You can wall mount Beam above or below your TV, or place it on a TV stand.
+You can secure the soundbar to a wall with a compatible wall mount. We recommend the custom-designed Sonos Beam Wall Mount. See 
+Wall mount
+ for more information.
+Connect the power cord and plug in Beam.
+Note: 
+Use only the supplied power cord (using a third-party power cord will void your warranty).
+Connect the HDMI cable (included) to Beam's HDMI port.
+Connect the HDMI cable to your TV:
+HDMI cable to TV
+Optical adapter to TV
+Use your voice to control your Sonos system with any voice-enabled Sonos product—play and control content, turn the volume up or down, and more.
+Note
+: Voice control isn’t supported in every country yet—this feature will be available as soon as Sonos and a voice service launch together in your region.
+The microphone is used for voice control and for microphone-dependent features like Trueplay tuning. Press 
+ to turn the microphone on or off—the microphone LED light will let you know when your voice assistant is listening. 
+When the microphone light is on
+:
+When the microphone light is off
+:
+Every room is different. Trueplay tuning measures how sound reflects off walls, furnishings, and other surfaces in a room, then fine tunes your Sonos speaker to make sure it sounds great no matter where you've placed it.
+Trueplay works on iOS mobile devices running iOS 8 or later. During tuning, you'll move around the room holding your mobile device.
+Portable Sonos products like Sonos Roam and Move can tune themselves automatically. Auto Trueplay uses your speaker’s microphone to detect the environment and make periodic tuning adjustments so you get great sound wherever your speaker is and whatever you're listening to. 
+Go to 
+ > 
+System
+, and select your portable speaker to turn on auto Trueplay.
+You can customize Sonos products for your surroundings. Go to 
+ > 
+System
+ and select a product.
+Room Name
+If you move your speaker to a new room, you can change its name in 
+Settings
+.
+Turn off WiFi 
+(not available for Sonos Era 100, Era 300, or portable products)
+You can turn off your speaker’s WiFi when it’s connected to your network with an Ethernet cable. This reduces power consumption and can improve connectivity for wired speakers.
+For products like Amp and Port, turning off WiFi can reduce the internal temperature when they’re placed in a rack or stacked. 
+Learn more
+Note: 
+WiFi is turned off for Era 100 and Era 300 when you connect a 
+Sonos Combo Adapter
+ using the Ethernet cable.
+EQ
+Sonos products ship with preset equalization settings. You can change the sound settings (bass, treble, or loudness) to suit your personal preferences. 
+Learn more
+Trueplay
+Trueplay adapts the sound for your surroundings and content. Portable products can tune themselves automatically. 
+Learn more
+Volume Limit
+You can set a maximum volume for each room. 
+Learn more
+Status Light
+Displays the speaker’s connection to WiFi, indicates when the volume is muted, and signals errors. 
+Learn more
+Note
+: If the light is distracting, you can turn it off in 
+Settings
+.
+Touch Controls
+You can disable the touch control on your speaker. You may want to do this to prevent a child or curious pet from accidentally adjusting playback or volume. 
+Learn more
+Battery Saver 
+(portable products only)
+To save battery life, you can set your portable speaker to power off automatically instead of going to sleep. It won't appear in the Sonos app until it’s powered back on.
+Line-In 
+(Sonos products with line-in capability)
+When a projector, turntable, stereo, or other audio device is connected to a Sonos product, you can adjust these line-in settings: 
+Sonos products for your TV provide full-theater sound and play music too. Create a home theater system by adding a pair of 
+rear surrounds
+ and a 
+Sub
+.
+Use the Sonos app to adjust sound settings or change the way your home theater speaker works with your TV.
+TV Dialog Sync
+If the TV audio is out of sync with the video, you can adjust the audio delay (lip sync) in your room’s settings. 
+Learn more
+Group Audio Delay
+If you notice audio issues when playing to a group, you can adjust this setting. 
+Learn more
+TV Autoplay
+TV Autoplay
+—if music or other content is playing when you turn on your TV, the audio automatically switches to TV audio (default). If you don’t want this to happen, turn off TV Autoplay in your room’s settings.
+Ungroup on Autoplay
+—if your home theater speaker is grouped with other products when you turn on the TV, it automatically drops from the group (default). If you don’t want this to happen, turn off Ungroup on Autoplay in your room’s settings.
+Speech enhancement
+Makes TV dialog easier to hear. 
+Learn more
+Night sound
+Enhances quiet sounds and reduces the intensity of loud sounds. Turn on to reduce the volume while still experiencing proper balance and range. 
+Learn more
+Remote Control Setup
+During setup, you’ll program a remote control. You can program a different remote control any time. 
+Learn more
+It’s easy to turn two Sonos speakers (same model), or a Sonos Amp and your favorite non-Sonos speakers, into separate right and left channels for your home theater. 
+Note
+: If you group the rooms or create a stereo pair instead, you won't have surround sound.
+Learn more
+ 
+During setup, surround sound is optimized for your room. These settings are adjustable:
+Surrounds
+Turn surround sound 
+On
+ or 
+Off
+.
+TV Level
+Adjust surround volume for TV audio.
+Music Level
+Adjust surround volume for music.
+Music Playback
+Ambient
+ (subtle) or 
+Full
+ (louder, full range). Doesn't apply to Dolby Atmos Music playback.
+Find the perfect accessory for your Sonos system—tailored to perfectly fit your Sonos products.
+For a full selection of Sonos-compatible stands, wall mounts, chargers and cables, see 
+Accessories
+ on our website.
+Note
+: Don’t discard the template. It may look like packing material.
+Wood stud
+1/8” / 3mm bit
+No
+Yes
+Drywall (no stud)
+5/16” / 8mm bit
+Yes
+Yes
+Hard wallboard or double board
+5/16” / 8mm bit
+Yes
+Yes
+Plaster
+5/16” / 8mm bit
+Yes, requires toggle bolt
+Yes
+Concrete or brick
+5/16” / 8mm bit
+Yes
+Yes
+a
+. Tape the cardboard template to the wall above or below your TV. Use a level. Keep 1" (25mm) space (minimum) for access to Beam’s touch controls. (Don’t install Beam vertically.)
+b
+. Mark the center of the mounting holes and remove the template.
+Use a 5/16" drill bit to drill pilot holes.
+Insert and secure the wall anchors (don’t use the anchors if drilling into wood).
+Place the bracket on the wall and loosely tighten the wall screws to secure the bracket. Check with a level and then tighten the screws.
+Connect the power and HDMI cables to Beam.
+Place Beam on the bracket.
+Insert and tighten Beam to the bracket using the mounting screws.
+ 
+Amplifier
+Five Class-D digital amplifiers.
+Woofers
+Four full-range woofers ensure you’ll hear the faithful playback of mid-range vocal frequencies plus deep, rich bass.
+Tweeters
+One tweeter creates crisp high frequencies and clear dialogue.
+Adjustable EQ
+Use the Sonos app to adjust bass, treble, and loudness.
+Microphone array
+Wireless connectivity
+Connects to WiFi network with any 802.11 b/g/n, 2.4GHz broadcast-capable router.
+Ethernet port
+One 10/100Mbps Ethernet port. You can wire directly to your router if your WiFi is unstable.
+ 
+Sonos S2
+Set up and control with the latest generation of the Sonos app (for Apple or Android devices).
+System requirements
+TV with HDMI ARC / eARC port or optical digital audio output, broadband internet, and the Sonos app.
+Apple AirPlay 2
+Works with AirPlay 2 on Apple devices iOS 11.4 and higher.
+Voice
+Integrated voice control.
+Dolby Atmos
+Maps specific sounds in 3D space for a 360° effect.
+Trueplay
+Dynamically tunes the speaker to the unique acoustics of the room or area (iOS device required).
+Speech enhancement
+Turn on this home theater setting in the Sonos app to make TV dialogue even clearer.
+Night sound
+Enhances quiet sounds and reduces the intensity of loud sounds. Turn on to reduce the volume while still experiencing proper balance and range. 
+ 
+Power supply
+Auto-switching 100 - 240V ~ 50-60Hz 1A AC universal input
+Dimensions (H x W x D)
+25.6 x 3.9 x 2.7in. (651 x 100 x 68mm)
+Weight
+6.35lb (2.88 kg)
+Operating temperature
+32
+°
+ to 
+104
+°
+F (0 to 
+40
+°
+C)
+Storage temperature
+-
+4
+°
+ to 
+158
+°
+F (-
+20
+°
+ to 
+70
+°
+C)
+Colors
+White with white grille, black with black grille
+Package contents
+Sonos Beam (Gen. 2), power cord, and Quickstart Guide
+Note
+: Specifications subject to change without notice.

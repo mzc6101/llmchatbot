@@ -1,0 +1,581 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Volume control
+Note
+: When music is playing, press and hold 
++
+ or 
+- 
+to quickly change the volume. 
+Play/Pause
+Next/Previous
+Note
+: You can’t skip forward or go back when listening to a radio station.
+Voice services on/off
+Press the voice services button to turn voice control on or off. You can set up a voice service in the Sonos app.
+Note:
+ Make sure the universal microphone switch is on.
+Status light
+Displays the product's connection to WiFi or Bluetooth, indicates when the volume is muted, and signals errors. 
+Learn more
+Battery light
+Indicates the battery status:
+Note
+: Check battery level in the Sonos app.
+Handle
+Allows for easy lifting and carrying so you can take the Move 2 wherever you go.
+Power button
+Press to power on.
+ The status light turns on to let you know Sonos Move 2 is active.
+Press to put to sleep.
+ The status light turns off and you'll hear a short tone.
+Press and hold to power off.
+ The status light turns off and you'll hear a longer tone.
+Note
+: Move 2 goes to sleep automatically after 30 minutes when it's off the charging base.
+Bluetooth button
+Press to connect to a mobile device via Bluetooth. Move 2 will connect to your most recently paired device. 
+Press again to disconnect the current device.
+Press and hold to pair a new device. 
+Universal microphone switch
+Turn all microphones on or off. You can set up a voice service in the Sonos app.
+USB-C port
+Charging dock 
+(included)
+Set Move 2 on the charging base and it stays active for at-home use while recharging.
+Note
+: Use only the included USB-PD charger (using a third-party power supply will void your warranty).
+Charging base
+Set Sonos Move 2 on its charging base for easy recharging. The battery light will turn on for 10 seconds to let you know Move 2 is seated correctly (make sure the charging contacts are touching. Move 2 can recharge using Move's charging base). 
+Use only with the included power supply (using a third-party power supply will void your warranty).
+The charging base is for indoor use only—be sure to keep it dry.
+Note
+: Check battery level in the Sonos app.
+USB-C port
+For charging Move 2 on the go, use a compatible USB-PD charger. 
+You can enable 
+Battery Saver
+ in the Sonos app to best preserve battery life when Move 2 is inactive. When enabled, your Move 2 will power off automatically after 10 minutes in sleep mode.
+Go to 
+ > 
+System
+, and select Move 2 to get started.
+Note
+: Move 2 won't appear in the Sonos app until it’s powered back on.
+You can put your Sonos Move 2 just about anywhere. For maximum performance, here's a few guidelines: 
+The microphones in Sonos Move 2 are used for voice control and other features found in the 
+Sonos app
+, like auto Trueplay
+TM
+. 
+The universal microphone switch on the back allows you to quickly turn on or off all microphones in the speaker and adds an extra level of privacy when you want it (it's turned on out of the box).
+The voice services button on top toggles voice control on and off without affecting the microphones needed for auto Trueplay and other microphone-related features.
+When the voice services light is on
+:
+When the voice services light is off
+:
+Use your voice to control your Sonos system with any voice-enabled Sonos product—play and control content, turn the volume up or down, and more.
+Note
+: Voice control isn’t supported in every country yet—this feature will be available as soon as Sonos and a voice service launch together in your region.
+Every room is different. Trueplay tuning measures how sound reflects off walls, furnishings, and other surfaces in a room, then fine tunes your Sonos speaker to make sure it sounds great no matter where you've placed it.
+Trueplay works on iOS mobile devices running iOS 8 or later. During tuning, you'll move around the room holding your mobile device.
+Portable Sonos products like Sonos Roam and Move can tune themselves automatically. Auto Trueplay uses your speaker’s microphone to detect the environment and make periodic tuning adjustments so you get great sound wherever your speaker is and whatever you're listening to. 
+Go to 
+ > 
+System
+, and select your portable speaker to turn on auto Trueplay.
+Pair two Sonos speakers in the same room for an even wider, stereo experience. One speaker serves as the left channel and one serves as the right channel. 
+Note
+: The Sonos speakers in a stereo pair must be the same type.
+Learn more
+You can customize Sonos products for your surroundings. Go to 
+ > 
+System
+ and select a product.
+Room Name
+If you move your speaker to a new room, you can change its name in 
+Settings
+.
+Turn off WiFi 
+(not available for Sonos Era 100, Era 300, or portable products)
+You can turn off your speaker’s WiFi when it’s connected to your network with an Ethernet cable. This reduces power consumption and can improve connectivity for wired speakers.
+For products like Amp and Port, turning off WiFi can reduce the internal temperature when they’re placed in a rack or stacked. 
+Learn more
+Note: 
+WiFi is turned off for Era 100 and Era 300 when you connect a 
+Sonos Combo Adapter
+ using the Ethernet cable.
+EQ
+Sonos products ship with preset equalization settings. You can change the sound settings (bass, treble, or loudness) to suit your personal preferences. 
+Learn more
+Trueplay
+Trueplay adapts the sound for your surroundings and content. Portable products can tune themselves automatically. 
+Learn more
+Volume Limit
+You can set a maximum volume for each room. 
+Learn more
+Status Light
+Displays the speaker’s connection to WiFi, indicates when the volume is muted, and signals errors. 
+Learn more
+Note
+: If the light is distracting, you can turn it off in 
+Settings
+.
+Touch Controls
+You can disable the touch control on your speaker. You may want to do this to prevent a child or curious pet from accidentally adjusting playback or volume. 
+Learn more
+Battery Saver 
+(portable products only)
+To save battery life, you can set your portable speaker to power off automatically instead of going to sleep. It won't appear in the Sonos app until it’s powered back on.
+Line-In 
+(Sonos products with line-in capability)
+When a projector, turntable, stereo, or other audio device is connected to a Sonos product, you can adjust these line-in settings: 
+ 
+Amplifiers
+Three Class-D digital amplifiers.
+Tweeters
+Two angled tweeters create a crisp and accurate high frequency response and stereo separation.
+Woofers
+One midwoofer ensures the faithful playback of mid-range vocal frequencies and deep bass.
+Microphones
+Voice
+Enable in the Sonos app.
+Note
+: The universal microphone switch must be turned on.
+Auto Trueplay
+This software continually optimizes the speaker's sound for its environment and the audio content playing. 
+Enable in the Sonos app.
+Note
+: The universal microphone switch must be turned on.
+Adjustable EQ
+Use the Sonos app to adjust:
+ 
+Power supply
+Charging base
+: 100-240 VAC, ~50/60 Hz, 1.2 A. 
+Output: 15.0 VDC, 3.0 A, 45.0 W
+USB port
+: USB-C PD power with 45 W, 20 V/2.25 A.
+Note
+: Move 2 can recharge using Move's charging base.
+Battery 
+(replaceable)
+Capacity
+: 3100 maH
+Replacement
+: Visit our website for more information.
+Disposal
+: Check with your local waste or recycling company to determine the proper disposal method in your area.
+WiFi
+Connects to WiFi network with any 802.11 a/b/g/n/ac/ax 2.4 GHz or 5 GHz broadcast-capable router.
+Bluetooth
+Bluetooth 5.0 supports audio streaming from any Bluetooth enabled device.
+USB-C
+Connect an audio source using an auxiliary cable and the Sonos Line-In Adapter. 
+Connect your router with an Ethernet cable and the Sonos Combo Adapter. (Accessories sold separately.)
+CPU
+Quad Core
+4x A55 1.4 GHz
+Memory
+1 GB SDRAM
+8 GB NV
+ 
+Dimensions (H x W x D)
+9.53 x 6.29 x 4.96 in (242 x 160 x 126 mm)
+Weight
+6.61 lb (3.0 kg) (includes battery)
+Operating temperature
+32
+°
+ to 
+104
+°
+ F (
+0
+°
+ to 
+40
+°
+ C)
+Storage temperature
+-
+13
+°
+ to 
+158
+°
+ F (-
+25
+°
+ to 
+70
+°
+ C)
+Humidity resistant
+Move 2 meets IP56 water and dust resistance levels.
+Note
+: The charging base is for indoor use only.
+Colors
+Matte black
+Matte white
+Matte olive
+What's in the box? 
+Move 2, charging base with 6 ft (2 m) USB-C to C cable, 45 W USB-C PD power adapter, and Quickstart guide.
+Caution
+: Danger of explosion if battery is incorrectly replaced. Replace only with the same or equivalent type.
+Warning
+: Sonos Move 2 meets IP56 water resistance levels. To reduce the risk of fire or electric shock, don’t expose this apparatus to a soaking rainstorm.

@@ -1,0 +1,600 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Content Key 
+Play/Pause
+: Press once to pause or resume streaming content.
+Next
+: Double press
+Previous
+: Triple press
+Volume
+: Slide up or down. Slide and hold to quickly change the volume.
+TV Audio Swap
+: After you set up 
+TV Audio Swap
+ in the Sonos app, press and hold to swap audio with your soundbar.
+Noise Control
+/
+Voice Control
+Press to switch between 
+Active Noise Cancellation
+ and 
+Aware Mode
+.
+Note
+: In the Sonos app, you can turn off 
+Active Noise Canceling 
+and 
+Aware Mode
+. Sonos Ace passively isolates you from background noise.
+Press and hold to activate the voice assistant on your device. You'll hear a tone when it's ready to listen. 
+Status light
+Indicates battery level, charging state, Bluetooth connection, and signals product updates and errors. It turns off when you're wearing your Sonos Ace.
+Power
+/
+Bluetooth 
+Note
+: When you turn on your headphones, they automatically connect to the most recently connected Bluetooth device, if available. 
+If you want to set up your Sonos Ace like new, you can factory reset your product to clear all of its settings and previously paired Bluetooth devices.
+The status light will flash white when your headphones have been reset. 
+Note
+: Sonos Ace is immediately ready to pair with a Bluetooth device when unboxed and after a factory reset.
+USB-C port
+Use a 
+USB-C to USB-C
+ cable (included) and a compliant USB-C power adapter (not included), and listen to Bluetooth audio while you charge.  
+You can plug your headphones into an audio device in two ways: 
+Bluetooth is disabled when Sonos Ace is connected to a device with a USB-C cable. The light will show solid white.
+Sonos Ace underwent extensive wear testing, with thoughtful consideration for different head shapes, head sizes, hairstyles, and accessories, to ensure comfort for as long as you're listening.
+The stainless steel headband smoothly extends and stays securely in place. Inside the ear cup, an innovative mechanism allows for precise adjustment to equalize pressure and create an exceptional acoustic seal.
+To get the most out of your Sonos Ace, it's important that your headphones fit comfortably:
+Ear cushions can be easily replaced if they wear out over time. Each cushion is securely held in place by magnets, but can be removed with a light pull.
+When reattaching an ear cushion, here are some things to keep in mind:
+Before you start, make sure your Sonos Ace is powered on and Bluetooth is enabled on the device you want to pair your Sonos Ace with.
+Note
+: Sonos Ace is immediately ready to pair with a Bluetooth device when unboxed and after a factory reset.
+Press and hold the 
+Power/Bluetooth
+ button (about 7 seconds) to put your headphones into Bluetooth pairing mode.
+Note
+: 
+Power/Bluetooth
+ button is located on the left ear cup.
+If you’re wearing Sonos Ace,
+ hold the button 
+past
+ the “power down” tone until you hear the “Bluetooth pairing” tone. Any active audio streams will stop when you enter pairing mode.
+If Sonos Ace is off your head,
+ hold the button until the status light slowly blinks blue.
+Go to the device’s Bluetooth settings and select your Sonos Ace from the list of found devices.
+If you’re wearing Sonos Ace,
+If Sonos Ace is off your head,
+Solid white
+Powered on, not connected to a Bluetooth device.
+Solid blue
+Powered on, connected to a device via Bluetooth.
+Blinking blue
+Powered on, searching for a Bluetooth device.
+You can connect your Sonos Ace to 2 Bluetooth devices and automatically switch between audio streams. Make sure Bluetooth is enabled on both of your devices.
+In the Sonos app: 
+Note
+: 
+2 Device Connections
+ is off by default.
+Sonos Intelligent Motion Processing with Dolby Head Tracking is available during Bluetooth playback. This industry-leading Dolby Atmos experience surrounds you in hyperrealistic sound with different elements of the music coming from points around your head.
+You can enable or disable
+ Head Tracking
+ in the Sonos app:
+Use a USB-C to USB-C cable (included) and a compliant power adapter (not included; 15 W recommended). While your Sonos Ace is connected to a power adapter, you can continue listening to a Bluetooth-connected device. 
+When the battery level reaches 10% power, you’ll hear a tone and the status light will flash orange.
+Flashing orange
+Between 0% and 10% battery remaining.
+After connecting your Sonos Ace to power:
+Solid orange
+Plugged in and charging normally. Below 100% charge.
+Solid green 
+100% battery. You can unplug your headphones.
+Flashing red
+Charging error. Unplug your headphones from power.
+When your Sonos Ace reaches 10% power or lower, you can utilize rapid charging to quickly recharge. Rapid charging gives you 3 hours of playback in just 3 minutes.
+Use the included USB-C to USB-C cable and a compliant USB-C power adapter (not included) to charge your headphones: 
+Instantly swap TV audio from a compatible Sonos soundbar to your Sonos Ace and feel enveloped in exhilarating surround sound and spatial audio.
+Note
+: Only TV audio (via HDMI or optical) can stream to Sonos Ace.
+Use the Sonos app (iOS and Android) to set up the connection between your Sonos Ace and a compatible soundbar. Make sure your products are up to date and WiFi is enabled before using 
+TV Audio Swap
+.
+Before you start, make sure your Sonos Ace remains powered on and within 30 ft (9.1 m) of your Sonos soundbar during 
+TV Audio Swap
+. 
+Select
+ Swap Back
+ to end a 
+TV Audio Swap 
+session.
+During a 
+TV Audio Swap
+, you can listen with 
+Spatial Audio
+ and dynamic 
+Head Tracking 
+to for the most immersive experience possible. 
+Spatial Audio
+Places you in the center of the scene with sound coming from all around you.
+Head tracking
+Spatial audio stays centered with your TV as you move your head, for the most life-like sound experience. 
+Spatial Audio 
+must be enabled to use this feature.
+If your Sonos Ace is connected to a Bluetooth device that has a built-in voice assistant, you can activate it using the Noise Control/Voice Assistant button, located on the right ear cup.
+Ask to play specific playlists, albums, podcasts, and more from a variety of apps. 
+Microphones target your voice and suppresses background noise to produce crystal clear audio during phone and video calls.
+Answer a call
+Press the Content Key once to answer an incoming call. You'll hear a tone when the call connects successfully.
+Wear Detection enabled:
+ When you're getting a call, put on your headphones to answer automatically. You can enable 
+Wear to Answer
+ in 
+Settings
+.
+Decline a call
+Press and hold the Content Key to decline an incoming call. You'll hear a tone when the call is declined.
+End call
+Press the Content Key once to end an active call. You'll hear a tone when the call ends.
+Take off Sonos Ace
+Wear Detection enabled:
+ Call audio will switch from your headphones to your Bluetooth device.
+Sonos Ace uses sensors in the ear cups to detect if it's on your head and ready to use. When you take it off, Sonos Ace pauses your content so you don't miss a second.
+Note
+: Sonos Ace will turn off after 30 minutes of inactivity.
+Wear Detection
+ is enabled by default. You can disable it in the Sonos app:
+Note
+: If 
+Wear Detection
+ is disabled your Sonos Ace won't turn off after 30 minutes of inactivity.
+Play/Pause
+Content pauses when you take your headphones off and resumes when you put them back on.
+Phone calls
+Enable in 
+System
+ 
+Settings
+ 
+. When you're getting a call, put on your Sonos Ace to answer automatically.
+Note
+: When you take off Sonos Ace during a call, the call will continue out loud on your phone/mobile device.
+Use the Sonos app to adjust product settings for Sonos Ace: 
+Name
+Change the name of your Sonos Ace. This name will show up in Bluetooth pairing lists.
+Status
+Displays battery percentage and any active Bluetooth connections.
+Noise Control
+Three levels of 
+Noise Control
+: 
+Sound
+Make adjustments to 
+EQ
+:
+Toggle
+ Head Tracking
+ on or off.
+TV Audio Swap
+Bluetooth 
+Manage paired devices and connection settings.
+Hardware Controls
+About
+ 
+Drivers
+Custom-designed 40 mm dynamic driver in each cup.
+Microphones
+Eight microphones for noise control and voice targeting.
+Spatial audio
+Stream spatial audio content from supported services and devices.
+Lossless audio
+Enjoy lossless audio over Bluetooth with a supported device or via a USB-C connection.
+Noise control
+Active Noise Cancellation blocks external sounds. Aware mode blends ambient sound with your content.
+Head tracking
+Sonos Intelligent Motion Processing with Dolby Head Tracking. Enable this feature in the Sonos app.
+TV Audio Swap
+Press the Content Key to swap sound from a compatible Sonos soundbar to Sonos Ace (iOS and Android).
+Dolby Atmos
+Requires a compatible device and compatible content.
+Adjustable EQ
+Use the Sonos app to adjust bass, treble, and loudness.
+Dimensions
+Weight
+11 oz (312 g)
+Colors
+Black
+Soft White
+Finish
+Matte
+Stainless steel
+LED
+Light on bottom of left cup indicates connection status.
+Content Key
+Noise Control
+ (right ear cup)
+Power/Bluetooth
+ (left cup)
+Bluetooth
+Bluetooth 5.4 supports audio streaming from any Bluetooth-enabled device.
+Battery
+Li-ion, 1060mAh battery powers up to 30 hours of listening time or 24 hours of call time with Active Noise Cancellation or Aware Mode enabled.
+Charging
+Charge with the included USB-C cable and a compliant power adapter (15 W recommended). Rapid charge provides 3 hours listening time in 3 minutes from 0%. Full charge from 0% can require up to 3 hours.
+You can also charge Sonos Ace with a USB-A to USB-C cable and a compliant power adapter (15 W recommended).
+Operating temperature
+14°F to 104°F (-10°C to 40°C)
+Sonos Ace
+Product
+Travel case
+With removable cable pouch
+USB-C to USB-C cable
+2.46 ft (0.75 m)
+USB-C to 3.5 mm cable
+3.94 ft (1.2 m) 
+Note
+: Not compatible with third party cables.
+Documentation
+Quickstart Guide and legal/warranty information
+Audio source
+Supported Bluetooth device, such as a smartphone
+Power source
+USB-C power adapter and nearby electrical outlet for charging

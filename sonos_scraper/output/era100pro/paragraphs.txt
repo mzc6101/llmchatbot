@@ -1,0 +1,660 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Status light
+Volume
+Note: 
+To disable touch controls for all speakers in a room, go to 
+System Settings 
+ and select a product 
+>
+, scroll down to 
+Hardware
+, and toggle 
+Touch Controls
+ on or off.
+Play/Pause
+Tap to play or pause audio.
+When other speakers in a system are streaming audio, press and hold 
+Play/Pause
+ to group Era 100 Pro with the nearest Sonos speaker or group that's playing audio. The system will automatically create a temporary group, or cycle this speaker through other existing temporary groups. Release
+ Play/Pause
+ when Era 100 Pro is grouped with the speaker(s) you want and they begin playing the same content.
+When another Sonos speaker is streaming audio, press and hold 
+Play/Pause
+ (about 2 seconds). You’ll hear a tone and content will stop streaming from the other Sonos speaker and start streaming on your Era 100 Pro.
+Next/Previous
+Note
+: You can’t skip forward or go back when listening to a radio station.
+Voice services on/off
+Tap the voice services button to turn voice services on or off.
+Note
+: The microphone switch, located on the connector panel (back), must be turned on to use voice services.
+Bluetooth button
+When your Era 100 Pro successfully connects to Bluetooth, the status light will show solid blue.
+Threaded insert and eyebolt
+The threaded insert can be used with the optional eyebolt, included with each Era 100 Pro. If building codes on your project require it, insert the eyebolt and use it as a secondary safety attachment point with your preferred safety cable.
+Hook receptacle 
+Works with Era 100 Pro Surface Mount (sold separately). Provides extra stability in all mounting orientations. Can be removed for compatibility with Era 100.
+Microphone switch
+Toggle to turn all product microphones on or off. The switch is in the on position out of the box.
+Note
+: To use voice services, both the microphone switch and the voice services indicator light must be on.
+Network Port
+RJ45 ethernet connector with status LEDs. Provides network and power troubleshooting without the Sonos app.
+Green LED
+ (left)—Indicates network activity.
+Off = No Network
+On = Network Active
+Amber LED
+ (right)—Indicates PoE type.
+Off = PoE
+On = PoE+
+Era 100 Pro is optimized for PoE+ and compatible with standard (legacy) PoE. Sonos recommends pairing Era 100 Pro with a PoE+ switch or Power Injector for maximum performance.
+PoE (802.3af)
+15.4 W
+PoE+ (802.3at)
+30 W
+Important
+: If connected to a PoE++ power source, Era 100 Pro will negotiate PoE+ class type and consume no more than 30 W.
+A Power over Ethernet (PoE or PoE+) switch is the most common way you’ll power your Era 100 Pros. With a PoE switch, you can simply run an Ethernet cable from a PoE+ port on the switch to an Era 100 Pro.
+When deciding what switch you’ll use, make sure there are enough PoE ports to power all the speakers in the install. 1 speaker = 1 PoE port.
+Category 5 (CAT5e) cable or better
+Any CAT5 or better ethernet cable up to the 328 ft (100 m) maximum distance allowed by the ethernet standards.
+Sonos recommends CAT6 networking cables for installation.
+Power Sourcing Equipment (PSE)
+A device that provides power and network connectivity to speakers using Ethernet cables. Era 100 Pro is optimized for PoE+ but can be used with a standard PoE switch.
+In limited use cases, a PoE injector can be placed between your standard network switch and the Era 100 Pro that you want to power. It passes through the Ethernet data from the network switch with the addition of power on the speaker.
+At a high-level, PoE budgeting is basic math, but it's a crucial part of installing PoE devices. You need to make sure there’s enough power available for all the connected speakers and other PoE devices.
+The PoE budget is the total amount of power available on the network switch, to power your speakers or other PoE devices.
+The PSE you use will have a set amount of power it can provide both overall and per port, depending on the switch you choose.
+Important: 
+Switches are often unable to deliver maximum PoE power on all switch ports simultaneously.
+To calculate the budget, consider the PoE switch as a whole, the ports available, and the devices you want powered when they connect to your PSE.
+Unlike typical PoE devices (cameras, IP phones, control interfaces) that draw a static amount of power at all times, PoE speakers present a dynamic load to the power source and will draw more power at higher volume levels.
+For the purposes of your system maximum power consumption, remember that:
+Multiply the number of Era 100 Pro speakers you have by the power they each need (30 W each for PoE+, 15.4 W each for PoE). Then, multiply the total power needed by the industry standard headroom of 20% (1.2x).
+Example:
+8 Era 100 Pros x 30 W = 240 W of power needed
+240 W total power x 1.2 (headroom) = 
+288 W total power recommended
+Adding the 20% for headroom is an industry best practice and ensures that the switch is not operating at its own maximum capacity. If improper budgeting occurs and the connected products try to draw more power than available, the switch may shut down and disconnect all devices attached, possibly bringing down the network with it.
+Important
+: If you're adding other PoE devices (security cameras, doorbells, intercoms, lighting, etc.) in addition to your Era 100 Pro(s), these also need to be accounted for in your PoE budgeting calculations.
+Sonos Era 100 Pro is 
+optimized
+ for PoE+ (IEEE 802.3at), 
+compatible
+ with PoE (IEEE 802.3af), and has been tested to standards defined by the Ethernet Alliance.
+The power sourcing equipment (PSE) must be compatible with one of those IEEE standards. For a list of equipment that has been verified by the Ethernet Alliance, please visit their certified products list: 
+https://ea-poe-cert.iol.unh.edu/
+Before selecting a switch, consider how many networked devices on the system will require PoE power, how much power they draw, as well as the power budget available on the switch(es) you’re considering.
+Era 100 Pro can also use WiFi to connect to the network when a wired connection from a PoE switch is not possible (materials, distance, etc).
+This can be done with the use of a PoE injector (the injector will provide power, not data).
+Using this feature will require the Era 100 Pro to be connected to the SSID of the wireless access point. If there is another wireless Sonos device already on the network, Era 100 Pro will automatically receive the wireless network credentials and password. If there is not already another Sonos device connected to the wireless network, you will need to perform the initial Era 100 Pro setup with a wireless connection to the network.
+Passive PoE is not ratified by the IEEE and therefore it’s not a standard. Passive PoE does not include a digital “handshake” or safety check when devices are connected together, which can cause a passive PoE switch to overload an IEEE PoE device.
+Passive PoE is normally used in closed systems where the hardware vendor supplies both the PSE and the connected devices, with certainty that nothing else will be used on that network.
+There are no standards defining the maximum voltage, current, or power that can be delivered by passive PoE equipment, so it’s very easy to damage PoE devices that are not specifically designed for passive PoE.
+Don’t use a passive PoE switch or power injector with Era 100 Pro.
+Some PoE switches allow the user to reserve power for some, or all, network switch ports.
+Power management modes that might be present on your PSE include:
+Era 100 Pro supports all of the above modes.
+Era 100 Pro requires an internet connection on either its wired or wireless network interfaces for setup, media streaming, and management (like with our Sonos Pro service, currently only available in the US).
+Era 100 Pro is the first Sonos product that does not use spanning tree protocol (STP) in either wired or wireless modes.
+The Era 100 Pro wireless network interface is disabled whenever a valid network link is detected on the wired ethernet interface. To enable wireless networking, provide power but no network link on the wired ethernet connection. This can be achieved by using the power output of a PoE Injector, without connecting the PoE Injector data source to a network switch.
+Era 100 Pro sounds great no matter where you place it (indoor use only). Here are some guidelines to get you started:
+Era 100 Pro is mountable on virtually any surface including concrete, brick, masonry, or wood.
+Each custom-designed Era 100 Pro Surface Mount package includes:
+Note
+: Era 100 Pro sold separately.
+Era 100 Pro is mountable on virtually any surface including concrete, brick, masonry, or wood.
+When used in conjunction with the Surface Mount, the Era 100 Pro can be mounted in virtually any orientation, on both walls and ceilings.
+The bracket enables cables to come through a surface and into the center of the bracket, or pass through the bracket along the surface if you are not able to  drill holes.
+‎‎Through bracket cable management
+Through wall cable management
+The bracket allows for multiple hardware and hole configurations, depending on the surface you are mounting into. We recommend a minimum of 2 mounting points.
+Recommended hardware:
+Screw head
+: Countersunk / Flathead
+Max Ø = 9.5 mm
+Min Ø = 7 mm
+Screw diameter
+:
+Max Ø = 5 mm
+When mounting on a wall, make sure the bracket is oriented with the arrows pointing up.
+Double-check the spacing to ensure the speaker will fit in your desired orientation.
+Important
+: You won’t be able to access the release mechanism if it's too close to an obstacle, e.g. a ceiling, in the wrong orientation. Double check placement if mounting near a corner.
+When mounting on a ceiling, make sure the bracket is oriented with the arrows pointing towards the closest wall.
+Double check the spacing to ensure the speaker will fit in your desired orientation.
+Important
+: You won’t be able to access the release mechanism if it's too close to an obstacle, e.g. a wall, in the wrong orientation. Double check placement if mounting near a corner.
+Rotate the speaker so the screw hole is facing up. Attach the speaker to the mount using 1 short speaker mount screw (included).
+We recommend attaching Era 100 Pro to the mount first, before attaching the mount to the bracket. For two reasons:
+Align the mount with the bracket keyhole slot, then slide the mount down to lock it into place. When correctly mounted, you will hear a click. This click is the theft prevention lock. 
+Make sure the mount and speaker are securely seated and the theft prevention lock is engaged.
+To adjust its articulation, unlock the mount by rotating the collar counterclockwise. Reposition the speaker, then rotate the collar clockwise, and tighten by hand.
+To unlock the theft prevention mechanism, push a small tool (e.g. a thin screwdriver or pick) into the hole located behind and underneath the twist lock.
+Tool ax Ø = 4.5 mm
+Tool Min Length = 30 mm
+If a safety tether is required, attach it to the speaker using the included eyebolt attachment.
+The Era Pro Surface Mount is compatible with Era 100 with some limitations. The Era 100 does not have a hook receptacle, so you will need to remove the hook from the Surface Mount using the instructions below. Sonos recommends to only use Era 100 in a vertical orientation (not landscape or ceiling mounted) since it does not have the added stability from the hook.
+It's also not possible to attach a safety tether to Era 100.
+Unscrew the hook from the mount.
+Remove the hook and re-attach the screw with 4-5 Nm torque.
+Set up zones in the Sonos app to better fill large spaces with sound. A zone is a new semi-permanent configuration for multiple speakers throughout a system. Zones can be a single room, half of a room, or even multiple rooms.
+Once a zone is created, it keeps the speakers configured as one unit until the user removes the zone in System Settings 
+. You can place a maximum of 16 devices into a zone. To ensure the best experience, we recommend a wired internet connection into each speaker. If a wireless connection is needed, we recommend not exceeding six (6) WiFi connected devices per zone. The maximum number of Sonos devices per system is 32.
+Once you create a zone, all products in it are accessed together. Swipe up on the
+ Now Playing
+ bar, or navigate to the 
+output selector 
+ to control all products in a zone at once.
+An established zone appears as a single connected set of speakers in the app interface. Instead of having to give multiple products a common name in the same space (e.g. Kitchen, Kitchen 2, Kitchen 3, etc.) they look like one, single player in the
+ output selector
+ 
+ and system view.
+After selecting 
++ Set Up Zone
+, the app will take you through setup.
+Select the products you want to add to the zone.
+Go to 
+System Settings
+ 
+ and select a zone.
+Under 
+Products
+, select either 
+Edit Zone
+ to reconfigure a zone or 
+Separate Zone
+ to disband all speakers in the zone. 
+In 
+System Settings
+ 
+, you can adjust the relative volume of each speaker in a zone using the 
+Volume Trim
+ control.
+In 
+System Settings 
+, you can adjust 
+EQ
+ for each speaker to compensate for speaker position, architectural elements, surface materials, etc.
+Select the speaker icon 
+ in the app to identify individual speakers in a zone when adjusting sound settings. The speaker you selected will play a tone and flash its LEDs for audible and visual feedback.
+Trueplay tuning measures how sound reflects off walls, furnishings, and other surfaces in a room, then fine tunes your Sonos speaker to make sure it sounds great no matter where you place it.
+Note
+: You can't perform Trueplay tuning on a zone.
+Advanced tuning takes about 45 seconds and uses the microphone on an iOS device (running iOS 8 or later) so you'll move around the room while the sound is fine tuned for your space.
+Note
+: Advanced tuning is the best choice for large rooms (open concept spaces may experience less precise tuning).
+Quick tuning takes about 10 seconds and uses the microphone on your Sonos product to detect the environment so there's no need to move around the room during tuning.
+Note
+: Quick tuning is available for both iOS and Android, and is a good choice for smaller rooms, or spaces where it's difficult to move easily.
+There are 2 ways to enable or disable the microphone and voice services on Era 100 Pro:
+When the microphone switch is on and the voice services light is off, TrueplayTM and other microphone-enabled features are available but voice control is off.
+You can add Sonos Voice Control, or a voice assistant you use often, for hands-free control of your Sonos system. 
+Voice control is off by default.
+Note
+: If you're adding a voice assistant, download the voice assistant's app before adding it to your Sonos system.
+To add voice control in the Sonos app:
+Amplifiers
+3 class-D digital amplifiers precision-tuned for the speaker's unique acoustic architecture.
+Low-frequency driver
+One 3.5 x 4.4 in (90.8 x 111.9 mm) carbon filled-polypropylene
+High-frequency drivers
+Two 0.63 in (16 mm) silk dome
+Frequency Range
+1
+45 Hz-20 kHz ±3 dB 
+40 Hz-20 kHz -10 dB
+Maximum Long-Term SPL
+2
+90 dB @ 1 m with PoE+
+Maxium Short-Term SPL
+3
+98 dB @ 1 m with PoE+
+Nominal Coverage Angle
+4
+240° horizontal x 140° vertical
+Directivity Q
+5
+1.8
+Directivity Index
+5
+2.5 dB
+Microphones
+The far-field microphone array uses advanced beamforming and multichannel echo cancellation for quick and accurate voice control and Trueplay tuning. Toggle off the mic switch to electrically disconnect the onboard microphones.
+Adjustable EQ
+Use the Sonos app to control bass, treble, and loudness.
+Trueplay
+TM
+This software measures the acoustics of the room then fine-tunes the EQ. Compatible with iOS and Android devices.
+Integrated Content Streaming
+Amazon Music, Apple Music, Cloud Cover Music, Mood Media, Sonos Radio, Soundtrack Your Brand, Spotify, and many more. 
+For a complete list, please visit: 
+support.sonos.com/services
+Product Dimensions (W x H x D)
+4.72 x 7.18 x 5.14 in (120 x 182.5 x 130.5 mm)
+Net Weight (Each)
+4.48 lb (2.03 kg)
+Shipping Weight (Pair)
+12.35 lb (5.6 kg)
+Colors
+Black, White
+Finish
+Matte
+Threaded insert
+Included optional eyebolt can be used to provide a secondary safety attachment point to the speaker.
+Hook receptacle
+Increases stability when the speaker is paired with the Surface Mount and positioned in a non-portrait orientation.
+Controls
+Use the touch controls to play, pause, skip, replay, adjust the volume, mute your voice assistant, and group or ungroup Sonos products.
+Bluetooth button
+Press to pair with a Bluetooth device.
+Microphone switch
+Toggle off to electrically disconnect the onboard microphones.
+LEDs
+An LED on the front of the product indicates power and mute status. White LED on top of the product indicates voice assistant status. A pair of LEDs on the network port indicate power status (yellow) and network activity (green).
+Operating Temperature
+32º to 104º F (0º to 40º C)
+Humidity Range
+5—95%
+Power Method
+PoE+ (802.3 at), PoE (802.3 af)
+Power Consumption (Max PoE+, Max PoE, idle)
+30 W, 15.4 W, 2.4 W
+Connector Type 
+1 x RJ45
+Ethernet port
+100Base-T network connection and power
+Wired Networking Interface
+100BaseTX, Ethernet RJ45
+Wireless Networking Interface
+6
+Compatible with WiFi 6. Connect to WiFi with any 802.11a/b/g/n/ac/ax 2.4 GHz/5 GHz broadcast-capable router
+Bluetooth
+Bluetooth 5.0 supports audio streaming from any Bluetooth-enabled device.
+CPU
+Quad Core
+4xA55 1.4 GHz
+Memory
+2 GB DDR4
+8 GB eMMC
+Apple AirPlay 2
+Works with AirPlay 2 on Apple devices iOS 11.4 and higher.
+Direct Streaming Formats
+Bluetooth, Apple Airplay 2, Spotify Direct Control
+2 Sonos Era 100 Pro speakers
+Product(s)
+2 eyebolts
+Eyebolts
+Documentation
+Quickstart Guide and legal/warranty information
+Internet connection
+Access to the internet
+Power sourcing equipment (PSE)
+Third-party device, such as a PoE network switch or injector. See FAQ for more information
+Ethernet cable
+Category 5 (CAT5) or higher
+Sonos app
+The latest generation of the Sonos app running on a compatible device
+Safety and Compliance
+EN 62368-1:2014 / A11:2017, UL 62368-1 3rd Ed, CAN / CSA C22.2 No. 62368-1:19 3rd Ed.
+Portrait orientation
+Landscape and ceiling-mounted orientation
+Portrait orientation
+Landscape and ceiling-mounted orientation

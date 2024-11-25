@@ -1,0 +1,467 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Acoustic slot
+You can use the acoustic slot as a handle to lift Sub.
+Status light
+Displays the product's connection to WiFi, indicates when the volume is muted, and signals errors. 
+Learn more
+If the light is distracting, you can turn it off in your room’s settings.
+Join button
+Press to connect during setup.
+Ethernet port
+Use an Ethernet cable if you want to connect to a router (optional).
+AC power (mains) input
+Use only the supplied power cord to connect to a power outlet (using a third party power cord will void your warranty). Be sure to use the proper power adapter for your country. Push the power cord firmly into Sub until it is flush with the surface.
+Choose a location—Sub is designed to provide optimal sound wherever you place it.
+Attach the power cord and plug in Sub. Be sure to push the power cord firmly into Sub until it is flush with the surface.
+ 
+Download the Sonos app from the app store if you don't already have it. You’ll use it to set up and control your Sonos system. See 
+Setup
+ for more information. 
+Note
+: Make sure you set up at least one compatible speaker before adding Sub.
+ 
+Note
+: After Sub is paired with a Sonos speaker, you won’t see it displayed separately in your system. Any changes you make to the speaker it's paired with, like volume, mute, or music selection, will also affect Sub.
+If you’re placing Sub horizontally on a floor, you can attach permanent felt feet               (
+purchased separately
+) to protect your floor. If you’re putting it on a rug or using it vertically, no need to adhere the felt feet. 
+Note:
+ The felt feet are not removable—a strong adhesive will keep them permanently attached to Sub.
+To adjust Sub's settings, go to 
+ > System and select your Sub.
+Sub
+Toggle 
+On 
+or 
+Off
+ to turn the sound from Sub on and off.
+Sub level
+Use the slider to increase or decrease volume. (You can use this setting to match the subwoofer level to the level of your main speakers.)
+Phase control
+Choose 0° or 180° to set the phase control for your Sonos Sub or third-party subwoofer (flip if you don't hear enough bass in your usual listening position).
+When a room with a Sonos Sub is tuned using Trueplay, phase control is set and can't be changed unless you disable Trueplay.
+Reset
+Resets all Sub audio settings to their default values (0).
+You can easily change the Sonos speaker your sub is paired with. 
+If you’re moving it to a new room, wait for the status light to stop flashing after you plug the sub back in.
+You can easily connect a second Sub to your Sonos system. 
+Note
+: At least one Sub must be a Sub (Gen 3). If the button on the side is round instead of square, it's a Sub (Gen 3). You cannot pair a Sub Mini with a Sub.
+ 
+Amplifier
+Two Class-D digital amplifiers.
+Speakers
+Two force-canceling speakers positioned face-to-face for deeper, richer sound and zero cabinet buzz or rattle.
+Dual acoustic ports
+Tuned to enhance Sub performance.
+Frequency response
+Plays down to 25 Hz.
+All digital sound
+All filter settings, active equalization, and time alignment are done digitally through state-of-the-art DSP (Digital Signal Processing) circuitry for zero-loss audio quality and energy.
+Automatic equalization
+The system automatically adjusts audio settings across all connected components.
+ 
+Ethernet port
+One 10/100 Mbps Ethernet port. You can plug a Sonos product directly into your router if your WiFi is unstable
+Wireless connectivity
+Using Sonos S2
+: Connects to WiFi network with any 802.11a/b/g/n 2.4 or 5 GHz broadcast-capable router.
+Using Sonos S1
+: Connects to WiFi network with any 802.11b/g 2.4 GHz broadcast-capable router. 802.11n only network configurations are not supported—you can either change the router settings to 802.11b/g/n or connect a Sonos product to your router.
+ 
+Power supply
+Auto-switching 100 - 240V ~ 50-60 Hz 2 A AC universal input
+Dimensions (H x W x D)
+15.3 x 6.2 x 15.8 in. (389 x 158 x 402 mm)
+Weight
+Sub (Gen 3): 29 lb (13 kg)
+Sub (Gen 2): 36 lb (16 kg)
+Operating temperature
+32
+°
+ to 
+104
+°
+ F (0 to 
+40
+°
+ C)
+Storage temperature
+-
+4
+°
+ to 
+158
+°
+ F (-
+20
+°
+ to 
+70
+°
+ C)
+Multiple orientations
+Stand upright or lay flat for flexible placement.
+Rubber and felt feet
+Built-in rubber feet, optional felt feet.
+Supported products
+At least one amplified, non-portable product, such as Sonos One, One SL, Five, Ray, Beam, Arc, or Symfonisk.
+Package contents
+Sonos Sub, power cord, and Quickstart Guide
+*
+ Specifications subject to change without notice.

@@ -1,0 +1,514 @@
+User Guide
+Close Menu
+Sonos system 
+Overview
+Explore our products
+Stream Music, TV, and more
+Group speakers in different rooms
+Control your way
+Setup
+Overview
+What you'll need
+Setup options
+Create a Sonos account
+Play some music
+Room control
+Volume control
+Add product
+Trueplay™
+Change Sonos system
+New router
+Sonos Voice Control
+Overview
+Easy voice requests
+Sonos app 
+Overview
+The Home screen controls
+Content services
+Now Playing
+Search
+System controls
+Output selector
+System Settings
+Voice control
+Room Settings
+Account Settings 
+App Preferences
+Sonos Ace
+Overview
+Controls, lights, and ports
+Adjust the fit
+Bluetooth pairing
+Head tracking for Bluetooth
+Power and charging 
+TV Audio Swap
+Voice control
+Phone calls
+Wear detection
+Product settings
+Specifications
+Important safety information
+Era 300
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 300 Stand
+Era 300 Wall Mount
+Specifications
+Important safety information
+Era 100
+Overview
+Control and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Line-in
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Era 100 Stand
+Era 100 Wall Mount
+Specifications
+Important safety information
+Roam 2
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Microphone 
+Voice services
+Trueplay™ 
+Product settings
+Drying your Sonos Roam 2
+Specifications
+Important safety information
+Roam
+Overview
+Controls and lights
+Connector panel
+Select location
+Bluetooth pairing
+Charging
+Microphone on/off
+Voice services
+Trueplay™ 
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Roam SL
+Overview
+Controls and lights
+Connector panel
+Select a location
+Bluetooth pairing
+Charging
+Set up stereo pair
+Product settings
+Specifications
+Important safety information
+Move 2
+Overview
+Controls and lights
+Connector panel 
+Charging
+Bluetooth pairing
+Select a location
+Microphone on/off
+Voice services
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Move
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Bluetooth pairing
+Switch modes
+Charging
+Microphone on/off
+Voice services 
+Trueplay™
+Set up stereo pair
+Product settings 
+Specifications 
+Important safety information
+Arc Ultra
+Overview
+Controls and lights
+Connector panel
+Placement
+Connect the cables
+Wall mount
+Home theater
+Trueplay™
+Microphone and voice
+Product settings
+TV Audio Swap
+Specifications
+Important safety information
+Arc
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services 
+Microphone on/off
+Trueplay™
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Arc SL
+Overview
+Control and lights
+Connector panel
+Select a location
+Connect the cables 
+Product settings
+Trueplay™
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications 
+Important safety information
+Beam (Gen 2)
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Voice services
+Microphone on/off
+Trueplay 
+Product settings
+Home theater
+Set up surrounds
+Accessories
+Wall mount
+Specifications
+Important safety information
+Ray
+Overview 
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Home theater
+Set up surround speakers
+Trueplay™
+Product settings
+Accessories
+Wall mount
+Specifications
+Important safety information
+Sub 4
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Sub Audio
+Change speaker pairing
+Connect a second Sub
+Specifications 
+Important safety information
+Sub (Gen 3)
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Attach feet (optional)
+Product settings
+Change speaker pairing
+Connect a second Sub
+Specifications
+Important safety information
+Sub Mini
+Overview 
+Controls and buttons
+Select a location
+Connect the cables
+Trueplay™
+Change speaker pairing
+Specifications
+Important safety information
+Five
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Line-in
+Product settings
+Accessories
+Specifications
+Important safety information
+One
+Overview
+Control and lights
+Connector panel
+Select a location
+Set up stereo pair
+Set up surrounds
+Voice services
+Microphone on/off
+Trueplay™
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information
+One SL
+Overview
+Controls and lights
+Connector panel 
+Select a location
+Set up stereo pair
+Set up surrounds
+Product settings
+Accessories
+Sonos One Stand
+Sonos One Shelf
+Sonos One Mount
+Specifications
+Important safety information 
+Era 100 Pro
+Key features 
+Controls and lights
+Connector panel
+What's in the box?
+Power over Ethernet standards
+PoE budgeting
+Networking
+Placement
+Era 100 Pro Surface Mount
+Zones
+Trueplay™
+Microphone and voice
+Specifications
+Important safety information
+Amp
+Overview
+Controls and lights
+Connector panel
+Select a location
+Connect the cables
+Line in
+Stereo to mono
+Specifications
+Important safety information
+Boost
+Overview
+Controls and lights
+Connector panel
+Select a location
+Wall mount
+Specifications
+Important safety information
+Port
+Overview
+Controls and buttons
+Select a location
+Connect the cables
+Line in
+Line out
+Change stereo to mono
+Specifications
+Important safety information
+S1 app
+Overview
+Controls and buttons
+Queue
+Sonos playlists
+Music services and subscriptions
+Voice services
+App preferences
+System settings
+Account settings
+Copyright information
+Copyright
+Volume control
+Note
+: When music is playing, press and hold 
++
+ or 
+-
+ to quickly change the volume.
+Play/Pause
+Play/Pause
+: Press once to pause or resume streaming content.
+Next
+: Double press
+Previous
+: Triple press
+When another Sonos speaker is streaming audio, press and hold the 
+Play/Pause
+ button (about 1 second) to group it with Sonos Roam 2. You’ll hear the "grouping" tone and your speakers will begin playing the same content.
+When another Sonos speaker is streaming audio, press and hold the 
+Play/Pause 
+button (about 2 seconds) to take the current stream and play it on Sonos Roam 2. You’ll hear the "sound swap" tone and content will stop streaming from the other speaker.
+Microphone on/off
+Status light
+Displays the product's connection to WiFi or Bluetooth, indicates when the volume is muted, and signals errors:
+Bluetooth 
+button
+To pair with a device
+:
+To pair with a different device
+, wait until your Sonos Roam 2 connects to the most recent Bluetooth device, then press and hold again to restart the pairing process.
+Power 
+button
+Power on
+/
+sleep
+/
+wake
+: Press once (less than 1 second).
+When you put Sonos Roam 2 to sleep, you’ll hear a tone and the status light will turn off. Press again to wake. If you put Sonos Roam 2 to sleep, it will stay asleep for 10 minutes before powering off.
+Power off
+: Press and hold (about 5 seconds).
+Press and hold until you hear the power down tone and the status light turns off.
+USB-C 
+port
+Use the included cable to connect a compatible 7.5 W minimum (10 W recommended) USB-C PD power adapter. (
+Sonos 10 W USB Power Adapter
+ sold separately).
+You can use your Sonos Roam 2 just about anywhere. Here are a few things to keep in mind:
+Sonos Roam 2 can stream content from a Bluetooth device when WiFi is unavailable. Make sure your Sonos Roam 2 and Bluetooth device stay within 30 ft (about 9 m) of each other during Bluetooth playback. Make sure Bluetooth is enabled.
+Before you start, make sure your Sonos Roam 2 is powered on and Bluetooth is enabled on the device you want to pair your product with.
+To pair Sonos Roam 2 with a Bluetooth device
+:
+Go to the Bluetooth device’s Bluetooth settings and select your 
+Sonos Roam 2
+ from the paired device list. The most recent device will automatically connect to your Sonos Roam 2 next time you press the Bluetooth button (if it's available).
+You can check Sonos Roam 2’s battery life in the Sonos app.
+USB-C power adapter
+Use the included he included USB-C to C charging cable and a USB-C power adapter (
+Sonos 10 W USB-C Power Adapter
+ sold separately).
+Sonos Roam Wireless Charger
+Place your Sonos Roam 2 on the Sonos Roam Wireless Charger when you're listening at home (
+sold separately
+). 
+Qi charger
+Place Sonos Roam 2 on any compliant 10 W Qi-certified wireless charger.
+You can enable 
+Battery Saver
+ in the Sonos app to best preserve battery life when your Sonos Roam 2 is inactive. When enabled, your Sonos Roam 2 will power off automatically after 10 minutes in sleep mode.
+In the Sonos app,
+Note
+: Sonos Roam 2 won't appear in the Sonos app until it’s powered back on.
+The microphone is used for voice control and for microphone-dependent features like Trueplay tuning. 
+Press the microphone button 
+ to turn the microphone on or off—the microphone light will let you know when your voice assistant is listening. 
+When the microphone light is on
+:
+When the microphone light is off
+:
+Use your voice to control your Sonos system with any voice-enabled Sonos product—play and control content, turn the volume up or down, and more.
+In the Sonos app, 
+Sonos Voice Control
+: Control your whole Sonos system with hands-free ease and unmatched privacy. Sonos Voice Control comes ready to use—it only takes a few seconds to add when you set up your speakers. 
+Amazon Alexa
+: You’ll need the Sonos app and the Alexa app with the Sonos skill enabled. You’ll make some changes in both apps during setup. 
+Note
+: Voice control isn’t supported in every country yet—this feature will be available as soon as Sonos and a voice service launch together in your region.
+Every room is different. Trueplay tuning measures how sound reflects off walls, furnishings, and other surfaces in a room, then fine tunes your Sonos speaker to make sure it sounds great no matter where you've placed it.
+In the Sonos app, 
+Sonos Roam 2 and other Sonos portable speakers can tune themselves automatically. Auto Trueplay uses your speaker’s microphone to detect the environment and make periodic tuning adjustments so you get great sound wherever your speaker is and whatever you're listening to. 
+Use the Sonos app to adjust product settings for Sonos Roam 2:
+Name
+Change the name of your Sonos Roam 2. This name will show up in Bluetooth pairing lists.
+Products
+Sound
+Voice
+Bluetooth
+Battery
+Hardware
+Sonos Roam 2 has an IP67 rating—dustproof and water resistant and can be submerged in water up to 3 ft (1 meter) for several minutes. 
+Important
+: Don’t play audio when the speaker is immersed in water.
+ 
+Amplifiers
+Two Class-H digital amplifiers have been perfectly tuned to the speaker's unique acoustic architecture.
+Tweeters
+One tweeter creates a crisp high-frequency response.
+Midwoofers
+One elliptical midwoofer ensures faithful playback of mid-range frequencies and maximizes low-end output.
+Adjustable EQ
+Use the Sonos app to adjust bass, treble, and loudness.
+Microphones
+The beamforming microphone system uses multichannel echo cancellation for quick and accurate voice control plus automatic Trueplay tuning.
+Automatic Trueplay
+This software continuously adjusts the speaker's sound for its environment and audio content. Speaker must be registered in the Sonos app to enable feature.
+Sound Swap
+Hold the Play/Pause button to send sound between Sonos Roam 2 and your nearest Sonos product with microphones.
+ 
+IP67
+Dustproof and waterproof (Sonos Roam 2 can be submerged in 1 m of water for up to 30 minutes).
+Dimensions
+Weight
+0.95 lb (0.43 kg)
+Colors
+Finish
+Matte
+Buttons
+Press the Play/Pause button once to pause or resume, twice to skip a track, or three times to replay. Hold the Play/Pause button to group Sonos products or use Sound Swap. Press the + and - buttons to adjust volume. Press the microphone button to turn the microphones on and off. Press the Bluetooth button to pair a device. Press the power button to power down or turn on.
+LEDs
+Lights indicate connection, charge status, microphone activity, and mute status.
+ 
+WiFi
+Connect to WiFi with any 802.11a/b/g/n/ac 2.4 or 5 GHz broadcast-capable router.
+Bluetooth
+Bluetooth 5.2 supports audio streaming from any Bluetooth-enabled device.
+Battery
+18Wh battery provides up to 10 hours of continuous playback on a single charge.
+Charging
+Use the included USB-C to C charging cable with a 10 W or higher power adapter. You can also use the Sonos Roam Wireless Charger or a Qi-certified wireless charger.
+CPU
+Quad Core 1.4 GHz A-53
+Memory
+1 GB SDRAM 4 GB NV
+Operating Temperature 
+41°F to 95°F (5°C to 35°C)
+Apple Airplay 2
+Works with AirPlay 2 on Apple devices iOS 11.4 and higher on WiFi.
+Voice
+Works with Sonos Voice Control on WiFi and Bluetooth. (Playback controls limited on Bluetooth.) Works with Amazon Alexa on WiFi.
+Product
+Sonos Roam 2
+USB-C to USB-C cable
+3.9 ft (1.2 m)
+Documentation
+Quickstart Guide and legal/warranty information
+Power source
+10 W or higher USB-C power adapter and nearby electrical outlet for charging
+Internet connection
+Select features require internet connection and the latest generation of the Sonos app running on a compatible device

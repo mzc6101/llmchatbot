@@ -1,0 +1,11 @@
+name: together
+distribution_spec:
+  description: Use Together.ai for running LLM inference
+  providers:
+    inference: remote::together
+    memory: 
+    - faiss
+    - remote::weaviate
+    safety: meta-reference
+    agents: meta-reference
+    telemetry: meta-reference
