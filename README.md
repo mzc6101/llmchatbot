@@ -1,8 +1,8 @@
 # llmchatbot
 
-**An On-Device LLM based Chatbot that answers user's queries based on support and user-guide documentation scrapped using scrapy. Script creates FAQs based on chat history on the fly using chat history to create more relevant FAQs.**
+**An On-Device LLM based Chatbot that answers user's queries based on support and user-guide documentation scrapped using scrapy. Script creates FAQs using LLMs based on chat history on the fly to create more relevant FAQs.**
 
-## Sonos Product Information Assistant
+## Sonos Product Information Assistant 
 
 This project is a Flask-based web application designed to provide users with detailed information about Sonos products. Leveraging the Ollama API, the application processes user inquiries and delivers precise, context-aware responses.
 
