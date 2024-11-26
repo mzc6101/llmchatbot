@@ -27,7 +27,7 @@ Additionally, the Ollama API should be accessible and running locally.
 1.  **Clone the Repository:**
     
     ```bash
-    git clone <repository_url>
+    git clone (https://github.com/mzc6101/llmchatbot.git)
     ```
     
 2.  **Set Up a Virtual Environment:**
